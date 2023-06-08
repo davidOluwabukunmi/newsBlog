@@ -668,7 +668,9 @@ function nextSlide() {
 
 
 
+$(".load-more-card").slice(0, 3).show();
 
+$("")
 
 
 
